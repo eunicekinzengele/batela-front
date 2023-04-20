@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 // import HeroImage from '../Images/HeroImage.jpg'
 
 export default function Hero() {
