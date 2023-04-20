@@ -1,8 +1,7 @@
 import React from 'react'
 // import HeroImage from '../Images/HeroImage.jpg'
 
-export default function 
-() {
+export default function Hero() {
   return (
     <div className="bg-[url('../Images/HeroImage.png')] drop-shadow-2xl	 bg-no-repeat bg-cover h-[36rem] w-full items-center flex ">
         <div className='w-2/4 h-96  '>
